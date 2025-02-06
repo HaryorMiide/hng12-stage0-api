@@ -9,7 +9,7 @@ app.use(express.json());
 
 app.get("/", (req, res) => {
   res.json({
-    email: "Haryormiidesanusi@gmail.com",
+    email: "yxbtk7dzcp@privaterelay.appleid.com",
     current_datetime: new Date().toISOString(),
     github_url: "https://github.com/HaryorMiide/hng12-stage0-api",
   });
