@@ -40,4 +40,5 @@ A simple public API built with Node.js and Express for the HNG12 internship. It 
 ## 🔗 GitHub Repository
 
 [https://github.com/HaryorMiide/hng12-stage0-api.git](https://github.com/HaryorMiide/hng12-stage0-api.git)
+https://hng.tech/hire/nodejs-developers
 
